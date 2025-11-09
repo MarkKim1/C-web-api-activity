@@ -92,7 +92,7 @@ public class TechHiveController : ControllerBase
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
     public IActionResult DeleteUser(int id)
     {
-        var userToDelete = users.Single(user => user.userId == id);
+        var userToDelete = users.SingleOrDefault(user => user.userId == id);
         if (userToDelete == null) return BadRequest();
         users.Remove(userToDelete);
         return Ok(users);

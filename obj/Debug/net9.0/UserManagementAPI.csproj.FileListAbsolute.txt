@@ -34,3 +34,13 @@
 /Users/minseok/Desktop/developments/C#/UserManagementAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/minseok/Desktop/developments/C#/UserManagementAPI/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/minseok/Desktop/developments/C#/UserManagementAPI/obj/Debug/net9.0/UserManagementAPI.sourcelink.json
+/Users/minseok/Desktop/developments/C#/UserManagementAPI/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/minseok/Desktop/developments/C#/UserManagementAPI/bin/Debug/net9.0/Serilog.dll
+/Users/minseok/Desktop/developments/C#/UserManagementAPI/bin/Debug/net9.0/Serilog.AspNetCore.dll
+/Users/minseok/Desktop/developments/C#/UserManagementAPI/bin/Debug/net9.0/Serilog.Extensions.Hosting.dll
+/Users/minseok/Desktop/developments/C#/UserManagementAPI/bin/Debug/net9.0/Serilog.Extensions.Logging.dll
+/Users/minseok/Desktop/developments/C#/UserManagementAPI/bin/Debug/net9.0/Serilog.Formatting.Compact.dll
+/Users/minseok/Desktop/developments/C#/UserManagementAPI/bin/Debug/net9.0/Serilog.Settings.Configuration.dll
+/Users/minseok/Desktop/developments/C#/UserManagementAPI/bin/Debug/net9.0/Serilog.Sinks.Console.dll
+/Users/minseok/Desktop/developments/C#/UserManagementAPI/bin/Debug/net9.0/Serilog.Sinks.Debug.dll
+/Users/minseok/Desktop/developments/C#/UserManagementAPI/bin/Debug/net9.0/Serilog.Sinks.File.dll
